@@ -3,4 +3,4 @@
 **Bug Fixes**
 
 1. Issue16 - Output tag now rendered in reports
-2. Issue17 - Raphael charts fixed
+2. Issue17 - Raphael charts fixedfff
